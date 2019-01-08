@@ -11,4 +11,11 @@ This is the progress of Gossamer's development.
 | :---: | :---: |
 | Full body model | New Master Chief-like model to replace model present |
 | Working Shields/Health | Hud makeover for shields/health |
-| VISOR GUI | Minimap|
+| VISOR GUI | Minimap |
+| Animations | Cleaner animations/no clipping |
+| Implementation of the BR55HB | Functioning weapons |
+| | Implementation of the MA5C or similar |
+| | Implementation of the M6D or similar |
+| | Implementation of the M45E or similar |
+| | Implementation of the SPNKr or similar |
+| | Implementation of the |
